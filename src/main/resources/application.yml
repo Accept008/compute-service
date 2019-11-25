@@ -1,0 +1,14 @@
+#spring:
+#  application:
+#    name: compute-service
+#
+#server:
+#  port: 2222
+#
+#euraka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://localhost:1111/eureka/
+#
+#logging:
+#  level: debug
